@@ -1,5 +1,5 @@
 # CS-499-Computer-Science-Capstone
 
-- Milestone Two accoompanies Enhancement One
-- Milestone Three accompanies Enhancement Two
-- Milestone Four accompanies Enhancement Three
+- Milestone Two accompanies Enhancement One as a word doc
+- Milestone Three accompanies Enhancement Two as a word doc
+- Milestone Four accompanies Enhancement Three as a word doc
